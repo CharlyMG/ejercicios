@@ -1,0 +1,17 @@
+
+[general]
+name = Ejemplo de Menu
+descripcion = base plugin para ejercicios
+about = archivo base para desarrollo de plugin
+category = escritorio
+version = 0.0.1
+qgisMinimumVersion = 3.0
+icon = icon.png
+author = Charly Morales
+email = moralesjose595@gmail.com
+tags = vector, raster
+hompage = http://keyspatial.com
+tracker = http://keyspatial.com
+repository = http://github.com/
+experimental = False
+deprecated = False
